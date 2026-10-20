@@ -1,0 +1,8 @@
+Masalah,Jumlah,Penanganan
+Duplikat baris penuh,216,dihapus
+Duplikat produk dalam satu nota,3,dihapus
+Customer_ID kosong,28,diisi dari nota yang sama
+Quantity kosong/tidak wajar,70,dihitung ulang
+Unit_Price kosong/tidak wajar,36,diganti harga referensi
+Baris mentah,18513,
+Baris bersih,18294,
